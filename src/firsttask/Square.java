@@ -1,8 +1,10 @@
 package firsttask;
 
+
 public class Square implements Figure {
 
     private double side;
+
 
     public Square(double side) {
 
@@ -12,4 +14,5 @@ public class Square implements Figure {
     public double getArea() {
         return side * side;
     }
+
 }

@@ -1,5 +1,6 @@
 package firsttask;
 
+
 public class Triangle implements Figure {
 
     private double a,b,c;
